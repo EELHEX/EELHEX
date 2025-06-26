@@ -44,6 +44,7 @@ Welcome! I'm a passionate self-taught web developer who loves building, breaking
 ---
 
 ## 💬 Connect
+![image](https://github.com/user-attachments/assets/faed42a7-60df-418f-980c-d634e9130370) : eelhex
 
 Have feedback, ideas, or just want to chat?  
 Open an issue or start a discussion on any of my repos!
