@@ -1,6 +1,7 @@
 # 👋 Hey, I'm a 14-Year-Old Web Developer
 
-![image](https://github.com/user-attachments/assets/f018d8a9-f8c0-4a7e-8223-2fa89982dd28)
+![b8552872dc09a5702539d1f6f34ac90f (1)](https://github.com/user-attachments/assets/9a1c3c13-d75b-4571-bb21-1f5714577a06)
+
 
 
 Welcome! I'm a passionate self-taught web developer who loves building, breaking, and rebuilding things in my room. I spend most of my time experimenting with code and pushing myself to learn something new every day.
