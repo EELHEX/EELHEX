@@ -48,17 +48,6 @@ I don't really have a fixed path — I just like **learning something → buildi
 
 </div>
 
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Eelhex&show_icons=true&hide_border=true&theme=transparent&title_color=46E5B8&icon_color=46E5B8" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eelhex&layout=compact&hide_border=true&theme=transparent&title_color=46E5B8" />
-
-</div>
 
 ---
 
