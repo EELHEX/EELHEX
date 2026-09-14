@@ -1,54 +1,84 @@
-# 👋 Hey, I'm a 15-Year-Old Web Developer
+<div align="center">
 
-![b8552872dc09a5702539d1f6f34ac90f (1)](https://github.com/user-attachments/assets/9a1c3c13-d75b-4571-bb21-1f5714577a06)
+# Hey, I'm Eelhex 👋
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=46E5B8&center=true&vCenter=true&width=500&lines=Self-taught+developer;AI+%7C+JavaScript+%7C+Python+%7C+C;Web+dev+%7C+Embedded+systems;Always+learning+%26+building" alt="Typing SVG" />
 
+<br>
 
-Welcome! I'm a passionate self-taught web developer who loves building, breaking, and rebuilding things in my room. I spend most of my time experimenting with code and pushing myself to learn something new every day.
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Eelhex)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)](https://www.python.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=black)](https://en.wikipedia.org/wiki/C_%28programming_language%29)
 
----
-
-## 🛠️ Skills
-
-- **HTML**, **CSS**, **JavaScript**
-- Currently learning **React**
-- Daily Linux user (**Arch, btw**)
-- Love tinkering, customizing, and scripting
-- Not afraid to break things to figure out how they work
+</div>
 
 ---
 
-## 🚀 What I Do
+## About Me
 
-- Build creative and random web projects
-- Experiment with new web ideas & UI/UX
-- Continuously refine my system setup
-- Learn by doing, not just reading docs
+I'm a **self-taught developer** who likes learning by actually building things.
 
----
+I'm mainly into **AI, JavaScript, web development, Python, and C**, but I tend to jump between different projects and technologies whenever something looks interesting.
 
-## 🎯 Current Focus
-
-- Mastering React & building cleaner UIs
-- Shipping more projects to GitHub
-- Making my work more polished and user-friendly
+I don't really have a fixed path — I just like **learning something → building with it → breaking it → figuring out why → doing it again.**
 
 ---
 
-## 🌱 Goals
+## What I'm Into
 
-- Develop something people actually use
-- Get good enough to freelance before I finish school
-- Grow into a "real" developer while still having fun
+```text
+🤖 AI / Machine Learning
+🌐 Web Development
+⚡ JavaScript
+🐍 Python
+⚙️ C / Embedded
+🔧 Electronics & ESP32
+🐧 Linux
+🧪 Random experiments
+```
 
 ---
 
-## 💬 Connect
-Discord: eelhex
+## Tech I Use
 
-Have feedback, ideas, or just want to chat?  
-Open an issue or start a discussion on any of my repos!
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,js,html,css,c,linux,git,github,vscode,arduino" />
+
+</div>
 
 ---
 
-> _"I don't know everything, but I code every day. That's enough for now."_
+## GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Eelhex&show_icons=true&hide_border=true&theme=transparent&title_color=46E5B8&icon_color=46E5B8" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eelhex&layout=compact&hide_border=true&theme=transparent&title_color=46E5B8" />
+
+</div>
+
+---
+
+## Currently Learning
+
+```diff
++ AI
++ Advanced JavaScript
++ Python
++ C
++ Embedded systems
++ Linux
+```
+
+---
+
+<div align="center">
+
+### Always learning. Always building.
+
+<img src="https://komarev.com/ghpvc/?username=Eelhex&style=flat-square&color=46E5B8" />
+
+</div>
